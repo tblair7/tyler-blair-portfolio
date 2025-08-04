@@ -27,14 +27,6 @@ Visit my portfolio at: [https://tblair7.github.io/tyler-blair-portfolio](https:/
 - **Skills**: Technical skills and competencies
 - **Contact**: Professional contact information
 
-## Technologies Used
-
-- HTML5
-- CSS3 (with Bootstrap grid system)
-- JavaScript (ES6+)
-- Font Awesome icons
-- Google Fonts (Lato)
-
 ## Credits
 
 This portfolio is based on the excellent [Dev Portfolio template](https://github.com/RyanFitzgerald/devportfolio) created by [Ryan Fitzgerald](https://github.com/RyanFitzgerald). The original template is a lightweight, fully responsive portfolio template built with Sass and JavaScript.
@@ -44,7 +36,3 @@ This portfolio is based on the excellent [Dev Portfolio template](https://github
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-*Built with ❤️ using the Dev Portfolio template by Ryan Fitzgerald*
